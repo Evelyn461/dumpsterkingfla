@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What items are prohibited in your dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous waste, flammable materials, tires, and certain electronics are not allowed. Contact us for a complete list.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if I need another bin?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Call us and we’ll schedule a pickup and replacement right away often within 24 hours.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What size dumpster should I rent?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It depends on your project. We offer sizes from 10 to 40 yards and will recommend the right one based on your debris volume and material type.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Rental periods vary, but most customers keep them for 7 days. Extensions are available upon request.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are hazardous materials allowed?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. Items like batteries, asbestos, paint, and chemicals are prohibited. We’ll give you a complete prohibited items list before delivery.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I schedule same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, same-day delivery is available for most orders placed before noon.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
